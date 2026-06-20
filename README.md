@@ -1,7 +1,8 @@
 # Content Sharing Platform 🚀
 
 A full-stack web application designed for real-time content sharing with persistent data storage.
-<img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/dbdfec4a-4510-4da3-ab06-74357da3a432" />
+<img width="1920" height="1080" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/e9bb24d7-2df2-4ab6-bcfe-f55e63704856" />
+
 
 
 ### 🛠 Tech Stack
